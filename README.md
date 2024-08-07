@@ -44,6 +44,10 @@ MRSS is designed to help power plant workers and administrators efficiently mana
 - **Change Password:** Update your login password.
 - **Logout:** Exit the application.
 
+## 🌐 Hosted Website
+
+Visit the [BHEL'S MRSS deployed on FreeInfinity](https://mrssbhel.free.nf/) to explore and interact with the application.
+
 ## Contributing
 
 Contributions to Digi Suraksha are welcome! If you find a bug or have a feature request, please open an issue. If you'd like to contribute code, fork the repository and submit a pull request.
