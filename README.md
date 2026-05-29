@@ -48,6 +48,10 @@ MRSS is designed to help power plant workers and administrators efficiently mana
 
 Visit the [BHEL'S MRSS deployed on FreeInfinity](https://mrssbhel.free.nf/) to explore and interact with the application.
 
+## YouTube Video
+
+[Watch YouTube Video]([https://www.youtube.com/watch?v=elxVfFyoY-w](https://youtu.be/htm37cIs3mc))
+
 ## Contributing
 
 Contributions to MRSS BHEL are welcome! If you find a bug or have a feature request, please open an issue. If you'd like to contribute code, fork the repository and submit a pull request.
