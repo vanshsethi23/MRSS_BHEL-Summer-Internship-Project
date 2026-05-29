@@ -50,7 +50,7 @@ Visit the [BHEL'S MRSS deployed on FreeInfinity](https://mrssbhel.free.nf/) to e
 
 ## Contributing
 
-Contributions to Digi Suraksha are welcome! If you find a bug or have a feature request, please open an issue. If you'd like to contribute code, fork the repository and submit a pull request.
+Contributions to MRSS BHEL are welcome! If you find a bug or have a feature request, please open an issue. If you'd like to contribute code, fork the repository and submit a pull request.
 
 ## License
 
