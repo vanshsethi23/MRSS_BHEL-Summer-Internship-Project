@@ -50,7 +50,7 @@ Visit the [BHEL'S MRSS deployed on FreeInfinity](https://mrssbhel.free.nf/) to e
 
 ## YouTube Video
 
-[Watch YouTube Video](https://youtu.be/w4qtrcd16gY)
+[Watch YouTube Video](https://youtu.be/htm37cIs3mc)
 
 ## Contributing
 
